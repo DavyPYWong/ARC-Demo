@@ -1,2 +1,2 @@
 # ARC-Demo
-For ARC contest demo
+Test
