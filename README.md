@@ -1,7 +1,8 @@
 # ARC Demo Day
 # Introduction
 
-* Here is The Quarantine Buddy, a measuring tool for body temperature & breathing sound.
+* Here is The Quarantine Buddy, a measuring tool for respiratory disease.
+* Based on body temperature, breathing sound, environment temperature and air quality.
 
 # HW/SW Setup
 ## Devices
